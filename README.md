@@ -4,7 +4,7 @@
 - How to reach me: 
   - thucnghitran23@gmail.com
   - www.linkedin.com/in/thuc-nghi-tran-5949511a1/
-- 
+
 
 <!---
 nghi-trantca/nghi-trantca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
